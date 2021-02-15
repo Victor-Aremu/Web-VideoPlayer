@@ -15,5 +15,8 @@ body{
     font-variant-ligatures: normal;
 }
 .second{
-    padding-left: 19px;
+    padding-left: 18px;
+}
+.first {
+    padding-right: 1px;
 }
